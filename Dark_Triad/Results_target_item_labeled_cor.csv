@@ -1,0 +1,4 @@
+"","targ_cor_item_labeled","Narc_distilroberta","Mach_distilroberta","Psyc_distilroberta","Narc_miniLM","Mach_miniLM","Psyc_miniLM","Mach_mpnetNarc_mpnet","Psyc_mpnet","ML3_item_mpnet","Mach_Wulff","Narc_Wulff","Psyc_Wulff","Narc_e5","Mach_e5","Psyc_e5","Narc_mpnet_en","Mach_mpnet_en","Psyc_mpnet_en","Narc_t5","Mach_t5","Psyc_t5","Narc_avg_transf","Mach_avg_transf","Psyc_avg_transf"
+"Narc_distilroberta",NA,1,0.735,0.69,1,0.704,0.677,1,0.773,-0.222,1,-0.291,0.797,1,0.886,0.923,1,0.699,0.685,1,0.916,0.87,1,0.801,0.797
+"Mach_distilroberta",NA,0.735,1,0.762,0.704,1,0.781,0.773,1,-0.188,-0.291,1,-0.376,0.886,1,0.952,0.699,1,0.785,0.916,1,0.91,0.801,1,0.851
+"Psyc_distilroberta",NA,0.69,0.762,1,0.677,0.781,1,-0.222,-0.188,1,0.797,-0.376,1,0.923,0.952,1,0.685,0.785,1,0.87,0.91,1,0.797,0.851,1

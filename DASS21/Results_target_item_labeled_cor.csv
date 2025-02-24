@@ -1,0 +1,4 @@
+"","targ_cor_item_labeled","Dep_miniLM","Str_miniLM","Anx_miniLM","Dep_mpnet","Anx_mpnet","Str_mpnet","Dep_avg_transf","Str_avg_transf","Anx_avg_transf"
+"Dep_miniLM",NA,1,0.347,0.599,1,0.409,0.378,1,0.397,0.642
+"Str_miniLM",NA,0.347,1,0.197,0.409,1,-0.203,0.397,1,0.22
+"Anx_miniLM",NA,0.599,0.197,1,0.378,-0.203,1,0.642,0.22,1

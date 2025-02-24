@@ -1,0 +1,4 @@
+"","targ_cor_item_labeled","Str_distilroberta","Dep_distilroberta","Anx_distilroberta","Str_mpnet","Dep_mpnet","Anx_mpnet","Dep_miniLM","Anx_miniLMStr_miniLM","ML3_item_miniLM","Dep_e5","Anx_e5Str_e5","ML3_item_e5","Anx_Wulff","Dep_Wulff","Str_Wulff","Dep_mpnet_en","Anx_mpnet_en","Str_mpnet_en","Dep_t5","Str_t5","Anx_t5","Dep_avg_transf","Anx_avg_transfStr_avg_transf","ML3_item_avg_transf"
+"Str_distilroberta",NA,1,0.511,0.014,1,0.482,0.315,1,0.687,-0.116,1,0.929,0.223,1,0.78,-0.296,1,0.755,0.007,1,0.886,0.908,1,0.741,0.099
+"Dep_distilroberta",NA,0.511,1,0.444,0.482,1,0.661,0.687,1,-0.284,0.929,1,0.14,0.78,1,-0.193,0.755,1,-0.062,0.886,1,0.865,0.741,1,-0.254
+"Anx_distilroberta",NA,0.014,0.444,1,0.315,0.661,1,-0.116,-0.284,1,0.223,0.14,1,-0.296,-0.193,1,0.007,-0.062,1,0.908,0.865,1,0.099,-0.254,1

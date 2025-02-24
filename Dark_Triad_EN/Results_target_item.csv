@@ -1,0 +1,13 @@
+"","Mach_emp","Psyc_emp","Narc_emp","ML1_item_distilroberta","ML2_item_distilroberta","ML3_item_distilroberta","ML3_item_miniLM","ML1_item_miniLM","ML2_item_miniLM","ML1_item_mpnet","ML3_item_mpnet","ML2_item_mpnet","ML1_item_Wulff","ML2_item_Wulff","ML3_item_Wulff","ML1_item_e5","ML3_item_e5","ML2_item_e5","ML1_item_avg_transf","ML2_item_avg_transf","ML3_item_avg_transf"
+"Tendo.a.manipolare.gli.altri.per.ottenere.ciò.che.voglio",NA,NA,NA,0.636,0.15,0.513,0.294,0.691,0.012,1.024,0.181,-0.253,0.794,0.12,0.322,0.831,0.193,-0.051,0.847,0.035,0.402
+"Ho.usato..l.inganno.o.la.menzogna.per.ottenere.ciò.che.volevo",NA,NA,NA,0.669,-0.009,0.688,-0.282,0.651,0.321,0.857,-0.194,0.086,0.697,-0.128,0.703,0.963,-0.131,0.106,0.854,-0.179,0.629
+"Ho.usato.l.adulazione.per.ottenere.ciò.che.volevo",NA,NA,NA,0.664,-0.059,0.798,-0.143,0.793,0.009,0.705,0.051,0.033,0.73,-0.086,0.635,0.999,-0.143,0.072,0.927,-0.217,0.555
+"Tendo.a.sfruttare.gli.altri.per.i.miei.scopi",NA,NA,NA,0.677,0.241,0.228,0.336,0.792,-0.171,0.81,0.178,-0.058,0.36,0.533,0.23,0.676,0.325,-0.03,0.65,0.217,0.348
+"Tendo.a.non.provare.rimorso",NA,NA,NA,-0.033,0.725,0.206,-0.083,0.213,0.569,-0.099,-0.189,1.087,-0.006,0.709,0.45,0.014,0.071,0.846,-0.042,0.717,0.515
+"Tendo.a.non.interessarmi.della.moralità.delle.mie.azioni",NA,NA,NA,0.308,0.339,0.316,0.116,0.259,0.37,0.11,-0.088,0.706,0.407,0.357,0.32,0.467,0.008,0.466,0.248,0.458,0.418
+"Tendo.ad.essere.freddo.o.insensibile.",NA,NA,NA,-0.247,0.972,0.204,-0.174,-0.192,0.879,-0.189,0.433,0.249,-0.174,0.697,0.316,-0.213,0.1,1.054,-0.334,0.936,0.444
+"Tendo.ad.essere.cinico.",NA,NA,NA,-0.238,0.891,0.244,-0.004,-0.202,0.994,-0.126,0.396,0.411,-0.045,0.828,0.457,-0.183,0.327,0.801,-0.245,0.964,0.476
+"Tendo.a.volere.che.gli.altri.mi.ammirino.",NA,NA,NA,0.777,0.165,0.298,0.925,-0.007,-0.037,-0.271,0.783,0.32,0.732,0.186,0.201,0.01,1.044,-0.09,0.585,0.362,0.101
+"Tendo.a.volere.che.gli.altri.mi.diano.attenzione.",NA,NA,NA,0.792,0.119,0.381,0.999,-0.119,0.037,-0.015,0.802,0.16,0.701,0.219,0.319,0.022,1.025,-0.08,0.58,0.4,0.129
+"Tendo.a.cercare.prestigio.o.potere.",NA,NA,NA,0.187,0.566,0.415,0.173,0.529,-0.079,0.378,0.384,-0.018,-0.076,0.657,0.383,0.062,0.294,0.595,0.283,0.438,0.386
+"Tendo.ad.aspettarmi.favori.speciali.dagli.altri.",NA,NA,NA,0.473,0.34,0.337,0.692,-0.049,0.173,0.061,0.749,0.125,0.503,0.434,0.169,0.166,0.688,0.11,0.398,0.507,0.208
